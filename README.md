@@ -58,10 +58,10 @@ To build and run this application, you need to have the following tools installe
 
 1. **Clone the Repository**
 
-    \`\`\`sh
+    ```sh
     git clone https://github.com/yourusername/Payment-Application.git
     cd Payment-Application
-    \`\`\`
+    ```
 
 2. **Build the Application**
 
