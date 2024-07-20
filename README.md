@@ -42,3 +42,61 @@ Payment-Application/
 ├── Payment Application.vcxproj.filters
 ├── README.md
 └── main_test.c
+```
+
+## Getting Started
+
+### Prerequisites
+
+To build and run this application, you need to have the following tools installed:
+
+- GCC Compiler
+- Make
+- Git
+
+### Installation
+
+1. **Clone the Repository**
+
+    \`\`\`sh
+    git clone https://github.com/yourusername/Payment-Application.git
+    cd Payment-Application
+    \`\`\`
+
+2. **Build the Application**
+
+    \`\`\`sh
+    make
+    \`\`\`
+
+### Usage
+
+1. **Run the Application**
+
+    \`\`\`sh
+    ./payment_application
+    \`\`\`
+
+2. **Running Tests**
+
+    \`\`\`sh
+    ./main_test
+    \`\`\`
+
+## Contributing
+
+We welcome contributions to enhance the features and improve the codebase. Here’s how you can contribute:
+
+1. Fork the repository.
+2. Create a new branch: \`git checkout -b feature-name\`.
+3. Make your changes and commit them: \`git commit -m 'Add new feature'\`.
+4. Push to the branch: \`git push origin feature-name\`.
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- Thanks to all contributors and open-source projects that have been utilized in the development of this application.
