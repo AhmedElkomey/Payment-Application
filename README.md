@@ -65,23 +65,23 @@ To build and run this application, you need to have the following tools installe
 
 2. **Build the Application**
 
-    \`\`\`sh
+    ```sh
     make
-    \`\`\`
+    ```
 
 ### Usage
 
 1. **Run the Application**
 
-    \`\`\`sh
+    ```sh
     ./payment_application
-    \`\`\`
+    ```
 
 2. **Running Tests**
 
-    \`\`\`sh
+    ```sh
     ./main_test
-    \`\`\`
+    ```
 
 ## Contributing
 
